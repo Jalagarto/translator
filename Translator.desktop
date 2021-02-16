@@ -1,0 +1,6 @@
+[Desktop Entry]
+Version= 1.0
+Name = Translator
+Exec = /home/javier/mis_proyectos/translator/multi_traductor.py
+Icon = /home/javier/mis_proyectos/translator/icon.jpeg
+Type = Application

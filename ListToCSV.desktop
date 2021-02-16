@@ -1,0 +1,7 @@
+[Desktop Entry]
+Version= 1.0
+Name = ListToCSV
+Exec = /home/javier/mis_proyectos/translator/English_to_CSV.py
+Icon = /home/javier/mis_proyectos/translator/csv.png
+Type = Application
+Terminal=true
